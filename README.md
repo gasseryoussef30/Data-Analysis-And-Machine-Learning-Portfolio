@@ -11,7 +11,7 @@ Welcome to my portfolio! Here, I showcase various data analysis and machine lear
 ---
 
 ## About Me
-I am an entry-level data analyst and machine learning enthusiast with a mechanical engineering background, expertise in Python, pandas, scikit-learn, and power BI. My goal is to solve real-world problems with data-driven solutions.
+I am an entry-level data analyst and machine learning enthusiast with a mechanical engineering background, I used Python, pandas, scikit-learn, and power BI in my projects, My goal is to solve real-world problems with data-driven solutions.
 
 ## Tools and Technologies
 - **Programming**: Python
