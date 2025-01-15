@@ -7,6 +7,7 @@ Welcome to my portfolio! Here, I showcase various data analysis and machine lear
 2. [Weather Prediction Analysis and Machine Learning](./Weather-Prediction-ML/): Regression modeling for weather parameter predictions.
 3. [House Price Machine Learning Modeling](./House-Price-Modeling/): Advanced regression modeling to predict house prices.
 4. [Spaceship Titanic Kaggle Competition](./Spaceship-Titanic-Kaggle/): Classification modeling to predict passenger survival.
+5. [electronics-store-sales](./store-sales-analysis/): Exploratory data analysis and visualization of sales trends. 
 
 ---
 
